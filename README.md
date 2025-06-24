@@ -48,4 +48,25 @@ python v2_gui_basic.py
 ## 🎮 Features
 
 | Feature                 | CLI Version | GUI Version |
-|-----------------------
+|------------------------|-------------|-------------|
+| Player input           | ✅ Terminal | ✅ Buttons  |
+| Score tracking         | ✅           | ✅          |
+| Input validation       | ✅           | ✅          |
+| Game rounds            | ✅           | ✅          |
+| GUI elements           | ❌           | ✅ `tkinter` |
+| Winner popup message   | ❌           | ✅          |
+
+---
+
+## 🛡 License
+
+Licensed under the **MIT License** – feel free to use, modify, and share.
+
+---
+
+## ✍️ Author
+
+**Ghanishth Shakya**  
+🎓 B.Tech CSE (AI & DS) Student  
+🌐 [GitHub](https://github.com/your-username)
+
